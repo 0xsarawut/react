@@ -20,7 +20,7 @@
     "improve-images": "node ./improveImages.mjs"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.1",
+    "@babel/core": "^8.0.6",
     "@babel/node": "^7.14.7",
     "@babel/parser": "^7.14.8",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
@@ -64,7 +64,7 @@
     "style-loader": "^0.23.1",
     "webpack": "^5.82.1",
     "webpack-cli": "^5.1.1",
-    "webpack-dev-server": "^4.15.0",
+    "webpack-dev-server": "^5.2.6",
     "webpack-stats-plugin": "^1.1.3",
     "workerize-loader": "^2.0.2"
   },
